@@ -1,0 +1,914 @@
+[
+  {
+    "id": "0B6RM5w9s634GeVA0WGFOdUVDcnc",
+    "serie": "Luluzinha",
+    "temporada": "1",
+    "titulo": "001= O Show da Luluzinha _ Menina Verde + Dia Chuvoso + Bela Lulu (1995)"
+  },
+  {
+    "id": "0B6RM5w9s634GRllUNEdFbi0zTTg",
+    "serie": "Luluzinha",
+    "temporada": "1",
+    "titulo": "002= O Show da Luluzinha _ Toca Disco do Alvinho + A Estréia da Lulu na TV + Bebê Chorão (1995)"
+  },
+  {
+    "id": "0B6RM5w9s634GaE5sUGZJbDZVNEE",
+    "serie": "Luluzinha",
+    "temporada": "1",
+    "titulo": "003= O Show da Luluzinha _ Guerra de Bola de Neve + Bolinha Detetive Jr"
+  },
+  {
+    "id": "0B6RM5w9s634GVE9iVXU4RWJqTEU",
+    "serie": "Luluzinha",
+    "temporada": "1",
+    "titulo": "004= O Show da Luluzinha _ Gilberto O Gorila + Negócios na Neve + O Caso do Ovo no Sapato (1995)"
+  },
+  {
+    "id": "0B6RM5w9s634GWDlvc1FHeWw3b1U",
+    "serie": "Luluzinha",
+    "temporada": "1",
+    "titulo": "005= O Show da Luluzinha _ Garota de Negócios + O Pato de Estimação + Serviço de Guarda-Ch"
+  },
+  {
+    "id": "0B6RM5w9s634GS0xDU1ZnWEtRUlk",
+    "serie": "Luluzinha",
+    "temporada": "1",
+    "titulo": "006= O Show da Luluzinha _ Amigos e Inimigos + O Concurso de Beleza + Pobre Menino Rico (1995)"
+  },
+  {
+    "id": "0B333A1mm6VweRkVveEl6MTJMSm8",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "#ESPECIAL - O NATAL DA TURMA DO PATETA"
+  },
+  {
+    "id": "0B333A1mm6VweTzJRVUVmUGFua28",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#03 GÊNIO DA MATEMÁTICA"
+  },
+  {
+    "id": "0B333A1mm6VweQk5KMDlmTXJFMTA",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#04 O IMÓVEL  MÓVEL"
+  },
+  {
+    "id": "0B333A1mm6VweWUpHMnV2LUxhMVU",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#05 UM ACAMPAMENTO DO BARULHO"
+  },
+  {
+    "id": "0B333A1mm6VwebkJ6SkZ6aE03NWM",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#06 LOUCURAS DA SESSÃO DA MEIA-NOITE"
+  },
+  {
+    "id": "0B333A1mm6VweOEVXc0x6Unl1bjQ",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#07 O PATETA FALSIFICADO"
+  },
+  {
+    "id": "0B333A1mm6VweeW50bGVjY09Zb2c",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#08 O CARRO MAIS LUXUOSO DO MUNDO"
+  },
+  {
+    "id": "0B333A1mm6Vwecml1MnNvd1pwS0k",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#09 A RAMPA DO SUCESSO"
+  },
+  {
+    "id": "0B333A1mm6VweT2VHdFNNc3hLajg",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#10 A INVASÃO DOS MARCIANOS"
+  },
+  {
+    "id": "0B333A1mm6VwecVhuVVJSOHk5TVE",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#11 A CAÇA AO TESOURO"
+  },
+  {
+    "id": "0B333A1mm6VweQWY5d0FVcm5keDg",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#13 ONDE HÁ FUMAÇA, HÁ PATETA"
+  },
+  {
+    "id": "0B333A1mm6VweRE80YWhPcXdoREE",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#14 ENCONTRO COM O DESTINO"
+  },
+  {
+    "id": "0B333A1mm6VweaUlyZlozWkpYM1E",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#15 AR QUENTE"
+  },
+  {
+    "id": "0B333A1mm6VwecVhNckY2US15dHM",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#16 ME LEVA PARA O JOGO, FILHO"
+  },
+  {
+    "id": "0B333A1mm6VwednZ2NElNV0RPUXM",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#17 FÉRIAS NO HAVAÍ"
+  },
+  {
+    "id": "0B333A1mm6VweQm9RUXlSSk9FRlU",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#18 MAX-IMA PROTEÇÃO"
+  },
+  {
+    "id": "0B333A1mm6VweblR2bmNlRF8zUGM",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#19 PATETA HOOD E SEUS HOMENS TRISTES"
+  },
+  {
+    "id": "0B333A1mm6Vwed0tCejNsN1JySzg",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#20 O DONO DO PEDAÇO"
+  },
+  {
+    "id": "0B333A1mm6VweTW0yYk40RWdOT00",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#22 UMA BANDA DO BARULHO"
+  },
+  {
+    "id": "0B333A1mm6VweWDZoZUNUaVg1dm8",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#26 RECICLAGEM É UMA VIAGEM"
+  },
+  {
+    "id": "0B333A1mm6VweQlZjYVAzMjA1dGs",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#31 A CORRIDA DE BANHEIRAS"
+  },
+  {
+    "id": "0B333A1mm6VweT2pUNGNucFNyV1E",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#32 MAJOR PATETA"
+  },
+  {
+    "id": "0B333A1mm6VweNnFQa0N0UUdvTEk",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#37 FRANKENPATETA"
+  },
+  {
+    "id": "0B333A1mm6VweVjJ2TUlQdlhFWWc",
+    "serie": "A Turma do Pateta",
+    "temporada": "1",
+    "titulo": "1#51 GINÁUSEA"
+  },
+  {
+    "id": "0B_p8pzPcYi4qRXRLYXRYQWxuWVk",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Casa Da Bruxa-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qckRJN1RFZjJVbE0",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Casinha Do Quico-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qZlNpNlRERkFzNTQ",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Festa Da Amizade-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qb2JUWHI0dzl2d1E",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Fonte Dos Desejos-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qY0dFcFRWZjBqS3M",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Galinha Do Vizinho É Mais Gorda Que A Minha-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qd2JyWGdIZ1NaeWM",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Grande Festa P"
+  },
+  {
+    "id": "0B_p8pzPcYi4qazBfSUZqMkVMQmM",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Herança Do Seu Madruga-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qdjNUQS1YWGVSZjA",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Largatixa-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qdHNzdGVPNjd0V0E",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Loucura"
+  },
+  {
+    "id": "0B_p8pzPcYi4qTXVOcWRFeC1ycFk",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Venda Da Vila-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qcnJUSUkzc1BTaUU",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Volta Da Chiquinha-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qZGRMZTZ0X09wTzg",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A1 - O Mascote Do Quico-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qMGhZU2VGRFVYYmc",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A2 - O Julgamento Do Chaves-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qSmF4WTNTdWRCNXc",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Animais Proibidos-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qSW1fLXRsTDhRS1E",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "As Apostas-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qekpkekxyVEFYZFE",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "As Bombinhas-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qMGpqcDJZLVp2MkE",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "B1 - O Sonambulo-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qSGZLcUxTYkxmcnM",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "B2 - O Mistérios Dos Pratos-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qUmRieVN4MlBzcnM",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Barquinhos De Papel-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qa0Jua1g0T2w2dnc",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Briga de Água-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qa1dPd0lxZWtRak0",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "C1 - O Cachorrinho Do Kiko (o Cachorro Pt"
+  },
+  {
+    "id": "0B_p8pzPcYi4qQ0lkbGFTTVR1YWs",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "C2 - Gente Sim, Animais Não (o Cachorro Pt"
+  },
+  {
+    "id": "0B_p8pzPcYi4qMk1MNy03empxRVU",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "C3 - O Rato (o Cachorro Pt"
+  },
+  {
+    "id": "0B_p8pzPcYi4qUzJyeFRrVW5qSUk",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Cascas De Banana-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qdGUyVXJiNVlXdG8",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Confusão No Cabeleireiro-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qc3hHSFh4X1hBc1U",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "D1 - O Desjejum Do Chaves-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qV25iZTZoS3BWU0U",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "D2 - O Desjejum Do Chaves-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qclJGZ012QmxBaEU",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Desgosto Amoroso-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qNGdGaVpqRFNJWGs",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "E1 - O Primeiro Dia de Aula-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qMzNLby03MUVWR1U",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "E2 - O Primeiro Dia De Aula-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qUjUzSWpvOVY0LW8",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Epidemia De Catapora-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qTUFkNnRKNWUtams",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Escassez De Água I-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qSHc3RW1RZVB5ZUE",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Futebol Americano-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qcGxPOGZKdVlfLXM",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Isto Merece Um Prêmio-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qSmRoOG5lWnFsRFU",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Jogando Bola-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qdVhjWXBsNzZFeE0",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Ladrões Desajeitados, Os Balões-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qaXQzV1NjRmlBUHc",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Mal Entendido-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qbC10dnAzTDdEZmM",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Álbum De Figurinhas-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qWXNESk50cTQwVmc",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Aniversário Do Quico-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qbkRDRXBvX0h3MTQ",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Ano Novo-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qM0ZBOVk5RXZWQ2M",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Atropelamento-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qMnNiX2JzU3JybmM",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Belo Adormecido-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qWXY5SmxIbi1IeWc",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Castigo Vem A Cavalo-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qb2tmakhzM0o4djA",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Cofrinho-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qZnJ2UnZmLWlmS1k",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Curto Circuito-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qeWluQW5MTlE5dGM",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Despejo Do Grande Campeão-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qMXY3a1ZrUE1xUVE",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Duelo-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qV1dsZXA1ZW5yWjQ",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Fantasma-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qN1ZqNTF3QmI1UW8",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Filme De Terror-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qZEZScDU5bGZ6N3M",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Fotógrafo-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qRU9ZZkZzX2FTQm8",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Homem Invisivel-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qWWZKczY5WTg5enc",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Ladrão Da Vila-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qdEliVDhGWFg2YTA",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Leiteiro-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qcXhPUDlmbHhYcnM",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Livro da Chiquinha-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qdS1LcFpXdHZaWUU",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Radinho Do Quico 2-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qYjZTTlRLdXdsN3M",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Show De Io-ios-1"
+  },
+  {
+    "id": "0B_p8pzPcYi4qb0JCWUtjdVRxRlk",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Velório De Seu Madruga-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWOFBjTkRqWjJyQnc",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Casemira-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWc0szVHJrRjlYTG8",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Classe de Aritmetica-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWVHEtblZVMEZGd3M",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Escassez De Água Ii-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWd3Z4NW00ZHpaXzQ",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Escolinha Do Professor Girafales-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWWGlsdmUzQ3Z5WU0",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Fábrica De Brinquedos 2-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWa3ZWal8yQ25VN0U",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Grande Festa P"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWX21ZOGRaaVRXUEU",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Sociedade I-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWNFlpakZieG1neVk",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Sociedade Ii 2-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWcTIzVjU3Z1k3T0U",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "A Sociedade Iii 2-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWY0FYejBIMjY5NFk",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Abre A Torneira-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWQU1PUE41UTV6V1k",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Ajuda A Cruz Vermelha-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWbU5RQ3Fqd2hxODQ",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Antes Um Tanque Funcionando Que Uma Lavadoura Encrencada-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWRWRWNzJ4Mm5Nc2M",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "As Paredes De Gesso-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWOFZfWTFMT1NxWlU",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "As Pessoas Boas Devem Amar Seus Inimigos 2-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWejlLNjBpSmU0QWc",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Bilhetes Trocados-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWTzdyOTVBclhiUU0",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Chaves Campeão 2-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWWGx6OHZYM2hDQm8",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Confusoes No Parque-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWV3MxZG53VGR5MU0",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "De Gota Em Gota Minha Mae Fica Rica-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWcnRpcGNCZk9RSFk",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Dia Das Criancas-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWUzBBR0tlb2drVnc",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Dia De Sao Valetim-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWWVlqYUlHeWlhN2c",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Dia Dos Namorados-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWZEtkSnZiMEJLWHc",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "E Duro Ser Eletricista-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWZUJmR0xIdWphNEU",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "F1 - O Despejo Do Seu Madruga-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWSkZWMjNHMklwa3c",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "F2 - Recordações-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWZlRQVEtaRzFzVzA",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "G1 - O Caozinho Da Dona Clotilde-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWSGdJbE1Gc25EcE0",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "G2 - Pai Por Algumas Horas-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWNk01SHdnbG5TeEk",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "K1 - Estatisticas-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWM2RRajNRekdUbE0",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "K2 - A Perna Quebrada-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWLWt2R2kxbmd4U0U",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "M1 - As Novas Vizinhas-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWVGw4bTBGaHVmLWs",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "M1 - As Novas Vizinhas-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWQUlYWmI1ZDBJTjg",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "M2 - Seu Madruga O Conquistador-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWOVVVWjBZbkZYWms",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "M3 - O Cupido Ataca De Novo-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWMWZjX1pBdUtlTDQ",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Nem Todos Os Bons Negócios São Negócios Da China 1-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWUzBHUk5Kbm5KcHM",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Nem Todos Os Bons Negócios São Negócios Da China 2-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWQ1NKV2RqREFueUk",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Nem Todos Os Bons Negócios São Negócios Da China 3-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWRnFvV1ZfMHI5VlE",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Concurso De Beleza-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWcEdQXzBDdWlHSFE",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Dinheiro Perdido-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWNmt0dzZ2eThsbVE",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Melhor Esconderijo-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWLTV0V3duSkdtQzg",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Pé De Chirimóia-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWY3ZCS08zTi04LVE",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "O Sapateiro-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWeVlzZ0NSbXhIcTQ",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Os Chifres Queimados do Professor-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWcUE2OGR0MW9wS0U",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Os Futebolistas-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWaFpBRjJURS1ZOWs",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Os Galos Nos Pés 2-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWR1pRUlR6WTA0N0k",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Os Toureadores-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWVVRDcVIzd1E5SE0",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Pezinho De Carambolas-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWYXR4Y3VGUUJUVG8",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Pezinho De Carambolas-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWb1B4bVFXZFhhWVU",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Pintando O Sete-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWYXc0LVhoTWhfRmM",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Piquinique Voador-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWUGlaRXE3OVVEclU",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Quem Baixa As Calças Fica Sem Elas-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWRkU2NVBkS09pMWs",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Quico Doente-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWTXdQaDRmTjZENTg",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Roupa Limpa Suja-se Em Casa-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWUkFfbktYX0pGMnc",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Roupa Suja Lava-se Em Público-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWbFJQWHZqbGd3eUE",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Ser Professor É Padecer No Inferno-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWT3Z1dkNXNTF0eG8",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Seu Madruga Carpinteiro I-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWUmFxSWEyMDI3XzQ",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Seu Madruga Carpinteiro Ii-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWMzRPcGFVSWNmUDg",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Somos Cafonas Sim-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWdDZlMWpxMVExVVE",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Tortinhas De Merengue 2-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWTW9HTi1TMWVNMUE",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Um Triângulo Amoroso-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWeVI1UG82bTJIXzQ",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Uma Aula De Canto-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWbTZ1TjM4SVYwR0E",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "V1 - Seu Madruga Sapateiro-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWQjhmNEdRMnh4ZzQ",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "V2 - O Sapateiro Prodigioso-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWcUQ5X2hlWEFRclU",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "V3 - O Aprendiz-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWMWp5cW1lZ0Z4b28",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Y1 - A Historia Do Brasil-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWV1NTOWh1bUxGSVU",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Z1 - O Castigo Da Escola-1"
+  },
+  {
+    "id": "0Bz3dcSQRr3UWQjFBMERtcTRveHc",
+    "serie": "chaves",
+    "temporada": "1",
+    "titulo": "Z2 - O Escorpiao 2-1"
+  }
+]

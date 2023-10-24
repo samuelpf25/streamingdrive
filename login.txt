@@ -1,0 +1,85 @@
+<?php
+session_start();
+if (isset($_POST['entrar'])) { //se o botão foi clicado
+    $login = $_POST['login'];
+    $senha = $_POST['senha'];
+    $_SESSION['validacao_login'] = 'n';
+
+    if ($login == 'teste' && $senha == 'teste') {
+        $_SESSION['validacao_login'] = 'ok';
+        header("location: index.php");
+
+    }
+    //echo $nome.' | '.$email.' | '.$pagamento;
+
+}
+
+?>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<?php
+
+include('head.php');
+
+?>
+
+
+<body>
+
+
+
+    <!--cabecalho-->
+    <div class="img-container">
+        <img src="images/logo.png"/>
+    </div>
+    <header class="cabecalho" id="cabecalho">
+
+        <div>
+            <h1>Séries Flix</h1>
+        </div>
+    </header>
+    <!--cabecalho-->
+
+    <!--conteúdo-->
+    <main class="conteudo" id="conteudo">
+
+
+        <form method="post">
+            <div class="mb-3">
+                <label for="login" class="form-label">Login</label>
+                <input type="text" class="form-control" name="login" placeholder="Login">
+
+            </div>
+
+            <div class="mb-3">
+                <label for="senha" class="col-sm-2 col-form-label">Senha</label>
+                <input type="password" class="form-control" name="senha" id="senha">
+
+            </div>
+
+            <input type="submit" class="btn btn-outline-success" name="entrar" value="Entrar" />
+        </form>
+
+
+    </main>
+    <!--conteúdo-->
+
+
+    <!--rodapé-->
+    <footer class="rodape" id="rodape">Rodapé</footer>
+
+</body>
+
+</html>
+
+
+<html lang="en"><head>
+  <meta charset="UTF-8">
+  <title>CodePen - Sign up / Login Form</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->

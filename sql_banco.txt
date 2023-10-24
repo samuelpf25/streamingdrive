@@ -1,0 +1,83 @@
+/* Streming_logico: */
+
+CREATE TABLE Usuario (
+    id_usuario INTEGER PRIMARY KEY AUTO_INCREMENT,
+    nome TEXT,
+    nascimento TEXT,
+    forma_pagamento TEXT,
+    ativo TEXT,
+    login TEXT,
+    senha TEXT
+);
+
+CREATE TABLE Perfil (
+    id_perfil INTEGER PRIMARY KEY AUTO_INCREMENT,
+    id_usuario INTEGER,
+    nome_perfil TEXT,
+    generos_videos TEXT
+);
+
+CREATE TABLE Pagamento (
+    id_pagamento INTEGER PRIMARY KEY AUTO_INCREMENT,
+    id_usuario INTEGER,
+    forma_pagamento TEXT,
+    mes_ano TEXT,
+    data_pagamento TEXT
+);
+
+CREATE TABLE Video (
+    id_video INTEGER PRIMARY KEY AUTO_INCREMENT,
+    genero TEXT,
+    titulo TEXT,
+    ano_producao TEXT,
+    duracao TEXT,
+    legendas TEXT,
+    lingua_audios TEXT,
+    descricao TEXT,
+    diretor TEXT,
+    atores TEXT,
+    url TEXT,
+    fk_video_tipo_id_video INTEGER
+);
+
+CREATE TABLE video_tipo (
+    id_video INTEGER PRIMARY KEY AUTO_INCREMENT,
+    n_temporadas TEXT,
+    n_episodio TEXT,
+    tipo TEXT
+);
+
+CREATE TABLE usuario_perfil (
+    fk_Perfil_id_perfil INTEGER,
+    fk_Usuario_id_usuario INTEGER
+);
+
+CREATE TABLE usuario_pagamento (
+    fk_Pagamento_id_pagamento INTEGER,
+    fk_Usuario_id_usuario INTEGER
+);
+ 
+ALTER TABLE Video ADD CONSTRAINT FK_Video_2
+    FOREIGN KEY (fk_video_tipo_id_video)
+    REFERENCES video_tipo (id_video)
+    ON DELETE RESTRICT;
+ 
+ALTER TABLE usuario_perfil ADD CONSTRAINT FK_usuario_perfil_1
+    FOREIGN KEY (fk_Perfil_id_perfil)
+    REFERENCES Perfil (id_perfil)
+    ON DELETE RESTRICT;
+ 
+ALTER TABLE usuario_perfil ADD CONSTRAINT FK_usuario_perfil_2
+    FOREIGN KEY (fk_Usuario_id_usuario)
+    REFERENCES Usuario (id_usuario)
+    ON DELETE RESTRICT;
+ 
+ALTER TABLE usuario_pagamento ADD CONSTRAINT FK_usuario_pagamento_1
+    FOREIGN KEY (fk_Pagamento_id_pagamento)
+    REFERENCES Pagamento (id_pagamento)
+    ON DELETE RESTRICT;
+ 
+ALTER TABLE usuario_pagamento ADD CONSTRAINT FK_usuario_pagamento_2
+    FOREIGN KEY (fk_Usuario_id_usuario)
+    REFERENCES Usuario (id_usuario)
+    ON DELETE SET NULL;

@@ -1,0 +1,24 @@
+//gera json drive
+var jsonObj = {}
+var dados = []
+document.querySelectorAll('.WYuW0e.Ss7qXc').forEach((e) => {
+    //jsonObj.id = e.getAttribute('data-id')
+    //jsonObj.temporada = "1"
+    
+    dados.push({id: e.getAttribute('data-id'),serie:"chaves",temporada: "1",titulo:""});
+    //console.log(e.getAttribute('data-id'))
+               
+               })
+
+var n = 0
+document.querySelectorAll('.uXB7xe').forEach((e) => {
+    try{
+    dados[n]['titulo'] = (e.ariaLabel).split('.')[0]
+    }catch{
+        
+    }
+        n+=1
+    
+})
+
+JSON.stringify(dados)
